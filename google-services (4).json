@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667423029557",
+    "project_id": "win-win-367e1",
+    "storage_bucket": "win-win-367e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667423029557:android:77a9e0c84400ddd157f47c",
+        "android_client_info": {
+          "package_name": "com.example.win_win"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7CwR6L1mhLyJAL4zNJh4B9hmjXAGhzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
